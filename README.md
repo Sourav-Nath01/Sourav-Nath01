@@ -1,79 +1,22 @@
-# 👋 Hello, I'm Sourav Nath!
+<h1 align="center">Hi 👋, I'm Sourav Nath</h1>
+<h3 align="center">A passionate software engineer from India</h3>
 
-**Passionate Software Engineer | Full Stack Developer | Open Source Contributor**
+- 🌱 I’m currently learning **Blockchain Development**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sourav nath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourav nath" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/codercog/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/codercog/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
+</p>
 
-![Header](https://your-image-link.com/header.jpg)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-## 🧑‍💻 About Me
-
-I'm Sourav Nath, a dedicated software engineer from India with a strong passion for developing innovative solutions and contributing to the tech community. My expertise spans across various programming languages and technologies, and I thrive on tackling challenging projects.
-
----
-
-## 🎓 Education
-
-**Guru Nanak Institute of Technology**  
-_B.Tech in Computer Science and Engineering_  
-CGPA: 9.16/10  
-_Kolkata, India (2021 – 2025)_
-
-**Naihati Narendra Vidyaniketan**  
-_Class XII - WBBSE_  
-Percentage: 83.60%  
-_Kolkata, India (2020 – 2021)_
-
-**Sundia High School**  
-_Class X - WBBSE_  
-Percentage: 82.85%  
-_Kolkata, India (2018 – 2019)_
-
----
-
-## 🛠️ Technical Skills
-
-- **Languages:** C, C++, C#, Python, Java, JavaScript, SQL, PHP, HTML, CSS
-- **Developer Tools:** VS Code, Android Studio, IntelliJ Idea Ultimate
-- **Technologies/Frameworks:** Linux, GitHub, ReactJS, NodeJS, Git, MongoDB, React Native
-
----
-
-## 💼 Projects
-
-### [DigiVault](https://github.com/Sourav-Nath01/DigiVault)
-_Solidity, React.js, IPFS_  
-A decentralized image upload platform utilizing Solidity and React with IPFS integration for secure and reliable image storage. Implemented smart contracts for precise authorization mechanisms and created an intuitive front-end for user interaction.
-
-![DigiVault](https://your-image-link.com/digivault.jpg)
-
-### [Multi Threaded Proxy Server](https://github.com/Sourav-Nath01/MultiThreadedProxyServerClient-main)
-_C_  
-Developed a multi-threaded proxy server using C, semaphores, and an LRU cache to enhance client-server interaction efficiency. Improved server performance by 35% with better concurrency handling and caching mechanisms.
-
-![Proxy Server](https://your-image-link.com/proxyserver.jpg)
-
-### [FileOrganizePro](https://github.com/Sourav-Nath01/FileOrganizePro)
-_Python_  
-Created FileOrganizePro to automate file management by organizing files based on types. Achieved a 40% reduction in manual file sorting time using Python and the Watchdog library to monitor and sort file events.
-
-![FileOrganizePro](https://your-image-link.com/fileorganizepro.jpg)
-
----
 
 ## 🏆 Achievements
 
 - **Qualified GATE CSE 2023 – 2024:** Ranked in the top 7% percentile
 - **NPTEL - IIT Kharagpur:** Ranked top 2 percentile in "Problem Solving through Programming in C" course
-
----
-
-## 📜 Certifications
-
-- **Problem Solving through Programming in C** - NPTEL
-- **Data Structures** - Coursera
-- **Analysis of Algorithm** - Coursera
-- **Machine Learning with Python** - Coursera
 
 ---
 
@@ -85,4 +28,3 @@ Created FileOrganizePro to automate file management by organizing files based on
 
 ---
 
-![Footer](https://your-image-link.com/footer.jpg)
